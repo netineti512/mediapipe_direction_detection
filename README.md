@@ -1,0 +1,1 @@
+# mediapipe_direction_detection
